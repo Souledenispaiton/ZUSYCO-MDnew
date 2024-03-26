@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "237654999597,237652145256",
   OWNER_NAME: "Dark Lucifer 🙂✌🏽🥋🖤🩸💔",
   BOT_NAME : "Dark Lucifer 🙂✌🏽🥋🖤🩸💔",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  ZUSYCO_FILE : "ZUSYCO-MD.js",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
